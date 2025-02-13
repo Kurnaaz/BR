@@ -1,572 +1,134 @@
 #EXTM3U
-#EXTINF:-1, BVN TV
-https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, ORF2
-https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8 
-
-#EXTINF:-1, TMC FR
-https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
-
-#EXTINF:-1, KIDS FR
-https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/master_90000000.m3u8 
-
-#EXTINF:-1, TF1 Series/Films FR
-https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/master_9000000.m3u8 
-
-#EXTINF:-1, DR1
-https://drlive01hls.akamaized.net/hls/live/2014185/drlive01/master.m3u8?
-
-#EXTINF:-1, DR1 m.undertekst
-https://drlive01texthls.akamaized.net/hls/live/2014186/drlive01text/master.m3u8?b=300-4000
-
-#EXTINF:-1, DR1 SYN
-https://drevent-lh.akamaihd.net/i/dr1synweb_0@143692/master.m3u8
-
-#EXTINF:-1, DR2
-https://drlive02hls.akamaized.net/hls/live/2014187/drlive02/master.m3u8
-
-#EXTINF:-1, DR2 m.undertekst
-https://drlive02texthls.akamaized.net/hls/live/2014188/drlive02text/master.m3u8?b=100-4000
-
-#EXTINF:-1, DR2 SYN
-https://drevent-lh.akamaihd.net/i/dr2synweb_0@143694/master.m3u8
-
-#EXTINF:-1, DR Ramasjang
-https://drlive03hls.akamaized.net/hls/live/2014190/drlive03/master.m3u8
-
-#EXTINF:-1, DR Ramasjang m. undertekst
-https://drlive03texthls.akamaized.net/hls/live/2014191/drlive03text/master.m3u8?b=300-4000
-
-#EXTINF:-1, DR Ramasjang m. undertekst
-https://drlive03texthls.akamaized.net/hls/live/2014191/drlive03text/master.m3u8
-
-
-#EXTINF:-1, National Geographic Abu Dhabi
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?checkedby:www.hlscat.com
-
-############################RUSSIA###########################################
-
-#EXTM3U
-#EXTINF:-1,LOVE NATURE
-#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
-http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
-#EXTINF:-1,LOVE NATURE
-#EXTVLCOPT:http-user-agent=OnlineTvAppDroid
-http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw5000000/variant.m3u8
-#EXTINF:-1,Беларусь 5
-http://178.124.183.5/hls/JRKVSUPCP8/variant.m3u8?version=2
-#EXTINF:-1,НТВ HD
-https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_HD/variant.m3u8
-#EXTINF:-1,НТВ
-https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_HD/bw600000/bw1500000/variant.m3u8
-
-############################USA VIP##########################################
-
-#EXTINF:-1 tvg-ID="HBOE" tvg-name="HBO (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="MOVIE",HBO (East)
-https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
-#EXTINF:-1 tvg-ID="HBOW" tvg-name="HBO (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="MOVIE",HBO (West)
-https://edge.roku-live.top.comcast.net/out/u/hbo-west.m3u8
-#EXTINF:-1 tvg-ID="CINE" tvg-name="Cinemax (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png" group-title="MOVIE",Cinemax (East)
-https://edge.roku-live.top.comcast.net/out/u/cinemax-east.m3u8
-#EXTINF:-1 tvg-ID="CINW" tvg-name="Cinemax (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png" group-title="MOVIE",Cinemax (West)
-https://edge.roku-live.top.comcast.net/out/u/cinemax-west.m3u8
-#EXTINF:-1 tvg-ID="SHOE" tvg-name="Showtime (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/500px-Showtime.svg.png" group-title="MOVIE",Showtime (East)
-https://edge.roku-live.top.comcast.net/out/u/showtime-east.m3u8
-#EXTINF:-1 tvg-ID="SHOW" tvg-name="Showtime (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/500px-Showtime.svg.png" group-title="MOVIE",Showtime (West)
-https://edge.roku-live.top.comcast.net/out/u/showtime-west.m3u8
-#EXTINF:-1 tvg-ID="STAW" tvg-name="STARZ (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Starz_2016.svg/500px-Starz_2016.svg.png" group-title="MOVIE",STARZ (West)
-https://edge.roku-live.top.comcast.net/out/u/starz-west.m3u8
-#EXTINF:-1 tvg-ID="STAE" tvg-name="STARZ (East)" tvg-logo="https://www.pngkey.com/png/full/335-3358841_the-previous-logos-were-introduced-in-2005-as.png" group-title="MOVIE",STARZ (East)
-https://edge.roku-live.top.comcast.net/out/u/starz-encore.m3u8
-#EXTINF:-1 tvg-ID="EPIE" tvg-name="Epix (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Epix_Logo_2009.svg/500px-Epix_Logo_2009.svg.png" group-title="MOVIE",Epix (East)
-https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
-#EXTINF:-1 tvg-ID="EPIE2" tvg-name="Epix 2 (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Epix_Logo_2009.svg/500px-Epix_Logo_2009.svg.png" group-title="MOVIE",Epix 2 (East)
-https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
-
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/cinemax.png" group-title="MOVIE",171.Cinemax
-https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Pop"  group-title="DAVE",Pop
-https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
-
-
-##############################INDIA###############################
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UkcgDgO.jpg" group-title="MOVIE",&Flix
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MOVIE",Prive HD
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/MNX.png" group-title="MOVIE",MNX
-https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png" group-title="MOVIE" ,Movies Now
-https://timesnow.airtel.tv/live/MN_pull/master.m3u8
-
-#EXTINF:-1, tvg-id="Romedy Now" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/romedy_now_in.png" tvg-name="Romedy Now"  group-title="DAVE",Romedy Now
-https://timesnow.airtel.tv/live/RN_pull/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22731/movie-kingdom/logo_20191212_225355.png" group-title="MOVIE",Movie Kingdom
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="",Zee Cinema
-https://y5w8j4a9.ssl.hwcdn.net/cinemausa/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="DAVE",Zee Cafe HD
-https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="DAVE",Zee Cafe
-https://y5w8j4a9.ssl.hwcdn.net/zeecafesd/tracks-v1a1/index.m3u8
-
-#EXTINF:0, DMAX TR
-https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
-
-#EXTINF:-group-title="BINGE BD",Discovery English
-https://streamitv.multitvsolution.in/idvo/discoveryeng.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="INFOTAINMENT (Free)",ANIMAL PLANET HD [HINDI]
-https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="INFOTAINMENT (Free)",Discovery HD [ENGLISH]
-https://streamitv.multitvsolution.in/idvo/discoveryhd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="INFOTAINMENT (Free)",Discovery [BANGLA]
-https://streamitv.multitvsolution.in/idvo/discoverybengali.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="INFOTAINMENT (Free)",Discovery [HINDI]
-https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4Wfs9kj.png" group-title="INFOTAINMENT (Free)",Discovery Science [HINDI]
-https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4Wfs9kj.png" group-title="INFOTAINMENT (Free)",Discovery Science [ENGLISH]
-https://streamitv.multitvsolution.in/idvo/discoverscienceeng.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png" group-title="INFOTAINMENT (Free)",Discovery Turbo
-https://streamitv.multitvsolution.in/idvo/turboeng.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="INFOTAINMENT (Free)",TLC [ENGLISH]
-https://streamitv.multitvsolution.in/idvo/tlceng.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="INFOTAINMENT (Free)",TLC [HINDI]
-https://streamitv.multitvsolution.in/idvo/tlchdhindi.m3u8
-#EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.imgur.com/2VYyqS9.png",HBO Signature
-https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbosig.m3u8
-#EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.imgur.com/nOiPsyr.png",HBO Hits
-https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbohits.m3u8
-#EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.imgur.com/p5doERm.png",HBO Family
-https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbofamily.m3u8
-#EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.imgur.com/9whd4No.png",HBO
-https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbo.m3u8
-
-#####################NEWS##################################
-
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/al-jazeera-international.png", Al Jazeera International
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/deutsche_welle_tv_de.png", DW Europe
-https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-
-#EXTINF:-1 tvg-id="BB2.UK" tvg-logo="http://static.epg.best/gb/BBC2.uk.png" group-title="UK",BBC 2
-https://bozztv.com/36bay2/gin/giniko_bbc22_1000kb_36bay2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="BBN.UK" tvg-logo="http://static.epg.best/gb/BBCNews.uk.png" group-title="UK",BBC News
-https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Fox.News" tvg-logo="http://static.epg.best/us/FoxNews.us.png" tvg-name="FoxNews" group-title="NEWS",FOX News
-https://bk7l2w4nlx53-hls-live.5centscdn.com/FOXNEWS/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TNQKahI.png", Press TV
-https://bozztv.com/36bay2/gin/giniko_presstv_900kb_36bay2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2018/10/et-live1-e1541006731547.png", Entertainment Tonight
-https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png", France 24 English
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png", RT America
-https://rt-usa.secure.footprint.net/1105.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WvNd8yg.png", Sky News
-https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lPyJhBN.png", UN Web TV
-https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
-
-###############################WWW MOVIES SPORT#####################################
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/", Discovery Realtime
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/", Discovery Giallo
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/", Discovery Nove
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
-
-#EXTINF:-1 tvg-id="really.gb" tvg-name="REALLY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK287Really.png" group-title="UK Ent", REALLY
-https://edge-1192-ch-gv.filmon.com/live/2798.high.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/", Tennis Channel+
-https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/", Monarch TV
-https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/c.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BDtkjpS.png", Filmrise Crime
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pIuJqYk.png", Movie Kingdom
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KXuzL1u.png", MBC 2 HD
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X6EliFm.png", MBC Max HD
-https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pIuJqYk.png", Movie Kingdom HD
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
-
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/movies_now.png", Movies Now
-https://timesnow.airtel.tv/live/MN_pull/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/romedy_now_in.png", Romedy Now
-https://timesnow.airtel.tv/live/RN_pull/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WjJ8MHC.png", Dubai One
-https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n3TgfP0.png", MBC Action HD
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png", TVO KIDS
-https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png", BEK SPORT EAST
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png", BEK SPORT WEST
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
-#EXTINF:-1,Hala TV
-https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8?
-#EXTINF:-1,Retro Music Television
-http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1652320907.m3u8?checkedby:hlscat.com
-#EXTINF:-1,Te Reo
-http://i.mjh.nz/nz/tv.20.m3u8?checkedby:hlscat.com
-#EXTINF:-1,CBS
-http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8?checkedby:hlscat.com
-#EXTINF:-1,Adult Swim
-https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8?checkedby:hlscat.com
-#EXTINF:-1,MTV Norge
-#EXTINF:-1,Abu Dhabi Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:-1,Abu Dhabi Sports 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:-1,Abu Dhabi Sports 3
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports3&checkedby:hlscat.com
-#EXTINF:-1,Abu Dhabi Sports 4
-https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 type="stream" channelId="-1" group="Music" tvg-country="IT", Deejay
-https://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://i.imgur.com/Ll6GlqY.png" tvg-country="INT", V2BEAT
 https://de1se01.v2beat.live/playlist.m3u8
-
-#############################LIVEDOMOVIES##########################################
-
-#EXTINF:-1 tvg-id="NAT GEO HD-TH" tvg-logo="https://extraimage.net/images/2020/01/30/337140ccf304833cf14d447ec474f83c.png" group-title="Documentary",National Geographic
-https://www.livedoomovies.com/02_NatGeoHD_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://extraimage.net/images/2020/01/30/554eacfd7507fb491551863c7fc88b47.png" group-title="Documentary",National Wild
-https://www.livedoomovies.com/02_NatGeoWild_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://extraimage.net/images/2020/01/30/791964afb2e916d2e7024373272232fd.png" group-title="Documentary",National People
-https://www.livedoomovies.com/02_NatPeopleHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY-TH" tvg-logo="https://extraimage.net/images/2020/01/30/5c21581a0d7ed624484697df0cc0ce7a.png" group-title="Documentary",Discovery Channel
-https://www.livedoomovies.com/02_DiscoveryChannel/chunklist.m3u8
-#EXTINF:-1 tvg-id="Discovery Asia-TH" tvg-logo="https://extraimage.net/images/2020/01/30/d830f1e5a53a3e6de83223c88c3ed19c.png" group-title="Documentary",Discovery Asia
-https://www.livedoomovies.com/02_DiscoveryHDWorld/chunklist.m3u8
-#EXTINF:-1 1 tvg-id="" tvg-logo="https://extraimage.net/images/2020/01/30/3b4d272eac6e8036511577f4277de31b.png" group-title="Documentary",Animal Planet
-https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
-#EXTINF:-1 tvg-id="HISTORY-TH" tvg-logo="https://extraimage.net/images/2020/01/30/bedf64c7afee09db7ec9596492f866eb.png" group-title="Documentary",History
-https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="History 2 TH" tvg-logo="https://extraimage.net/images/2020/01/30/795d589dbdde5ee2aacdf6c6931786bc.png" group-title="Documentary",H2
-https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://extraimage.net/images/2020/01/30/b7a9ecc870b85e055ebe94daf7fd0859.png" group-title="Documentary",Sumrujlok
-https://www.livedoomovies.com/02_BBCEARTH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://extraimage.net/images/2020/01/30/3500a45f3bcad5f6f20d61d1402afe34.png" group-title="Documentary",MYSCI HD
-https://www.livedoomovies.com/02_MYSCIHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-id="True Premier Football 1 TH" tvg-logo="https://extraimage.net/images/2020/02/06/c2b4c4baa89ff6a7108113c0d9a95f0d.png" group-title="sport",True Premier Football 1 TH
-https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-id="True Premier Football 2 TH" tvg-logo="https://extraimage.net/images/2020/02/06/3b14c2fbf00a90d863aadebaf9c90364.png" group-title="sport",True Premier Football 2 TH
-https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-id="True Premier Football 3 TH" tvg-logo="https://extraimage.net/images/2020/02/06/ae46b3c08b3cccc17da67edb59f18c3f.png" group-title="sport",True Premier Football 3 TH
-https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-id="True Premier Football 4 TH" tvg-logo="https://extraimage.net/images/2020/02/06/13c2deccc59518e0eb5294533a1f5c94.png" group-title="sport",True Premier Football 4 TH
-https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="https://extraimage.net/images/2020/02/06/5dd6813a08f2159748dcac76bcf6ca63.png" group-title="sport",True Premier Football 5 TH
-https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://extraimage.net/images/2020/02/06/920c319d62286bc7bb95e9bdd90665a0.png" group-title="sport",Fox Sport 1
-https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://extraimage.net/images/2020/02/06/0d596311c70057d8511406e7b9fb4602.pngg" group-title="sport",Fox Sport 2
-https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://extraimage.net/images/2020/02/06/7a702b2b8ec9db36c190279119628766.png" group-title="sport",Fox Sport 3
-https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF:-1 -title="sport",TrueSport HD 1
-https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd2.jpg" group-title="sport",TrueSport HD 2
-https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd3.jpg" group-title="sport",TrueSport HD 3
-https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://extraimage.net/images/2020/01/28/618b3c353e0f726dad94eb57a333eb90.md.png" group-title="sport",TrueSport HD 4
-https:///02_2sporthd4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports2.jpg" group-title="sport",TrueSport 2
-https://www.livedoomovies.com/02_sport2_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports5.jpg" group-title="sport",TrueSport 5
-https://www.livedoomovies.com//02_sport5_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports6.jpg" group-title="sport",TrueSport 6
-https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports7.jpg" group-title="sport",TrueSport 7
-https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein1.jpg" group-title="sport",Bein Sports 1
-https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein2.jpg" group-title="sport",Bein Sports 2
-https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein3.jpg" group-title="sport",Bein Sports 3
-https://www.livedoomovies.com/02_epl3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein4.jpg" group-title="sport",Bein Sports 4
-https://www.livedoomovies.com/02_epl4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://extraimage.net/images/2020/02/06/caa30b8aafd56c3a7cac503f9ccb6e63.png" group-title="sport",BT Sport 1
-https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://extraimage.net/images/2020/02/06/01e7c0504c547747cad69514a7eca066.png" group-title="sport",BT Sport 2
-https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsportshd.png" group-title="sport",SkyNet Sport HD
-https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports1.png" group-title="sport",SkyNet Sport 1
-https://www.livedoomovies.com/03_skynetsport1_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports2.png" group-title="sport",SkyNet Sport 2
-https://www.livedoomovies.com/03_skynetsport2_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports3.png" group-title="sport",SkyNet Sport 3
-https://www.livedoomovies.com/03_skynetsport3_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports4.png" group-title="sport",SkyNet Sport 4
-https://www.livedoomovies.com/03_skynetsport4_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports5.png" group-title="sport",SkyNet Sport 5
-https://www.livedoomovies.com/03_skynetsport5_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports6.png" group-title="sport",SkyNet Sport 6
-https://www.livedoomovies.com/03_skynetsport6_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv1.jpg" group-title="sport",Sport TV 1
-https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv2.jpg" group-title="sport",Sport TV 2
-https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv3.jpg" group-title="sport",Sport TV 3
-https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv4.jpg" group-title="sport",Sport TV 4
-https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv5.jpg" group-title="sport",Sport TV 5
-https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.edailysports.com/wp-content/uploads/2019/06/rugby-world-cup-japan-2019.jpg" group-title="sport",Rugby World Cup 2019
-https://www.livedoomovies.com/RugbyWorldCup/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-nba.png" group-title="sport",NBA HD
-https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tennis.png" group-title="sport",True Tennis HD
-https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-golf.png" group-title="sport",Golf Channel HD
-https://www.livedoomovies.com/02_golfhd_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movie",Fox Action Movies
-https://www.livedoomovies.com/02_FoxActionHD_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movie",Fox Premium Movies
-https://www.livedoomovies.com/02_FoxMoviesTH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movie",Fox Family Movies
-https://www.livedoomovies.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movie",Fox Crime
-https://www.livedoomovies.com/02_FoxCrimeHD_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movie",Fox Thai
-https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/12/hbo-hd.jpg" group-title="Movie",HBO HD
-https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/12/hbo-hit.jpg" group-title="Movie",HBO Hits
-https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movie",HBO Signature
-https://www.livedoomovies.com/02_HBOSignature_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movie",HBO Redby
-https://www.livedoomovies.com/02_RedbyHBO_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movie",True Film HD 1
-https://www.livedoomovies.com/02_TrueFilmHD1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movie",True Film HD 2
-https://www.livedoomovies.com/02_TrueFilmHD2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movie",FX Thailand
-https://www.livedoomovies.com/02_FXThailand_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movie",AXN HD
-https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movie",Warner TV HD
-https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",Disney XD
-https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",Cartoon Network
-https://www.livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",Boomerang
-https://www.livedoomovie.com/02_Boomerang_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",Cartoon Club
-https://www.livedoomovie.com/02_Cartoon_Club_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",Cartoon Club 2
-http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist_w2052379668.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",Miao Mi
-https://www.livedoomovie.com/02_Miao_Mi_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",Nick Jr
-https://www.livedoomovie.com/02_Nick_Jr_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Digital TV",PPTV HD
-https://www.livedoomovies.com/02_PPTVHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Digital TV",Workpoint HD
-https://www.livedoomovies.com/02_WORKPOINT_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Digital TV",MONO 29
-https://www.livedoomovies.com/02_MONO_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Digital TV",One31 HD
-https://www.livedoomovies.com/02_GMMONE_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Digital TV",Gmm 25 HD
-https://www.livedoomovies.com/02_GMM_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Digital TV",True4U
-https://www.livedoomovies.com/02_TRUE4U_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Digital TV",CH7 HD
-https://www.livedoomovies.com/02_7HD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Digital TV",CH5 HD
-https://www.livedoomovies.com/02_5HD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Digital TV",CH3 HD
-https://www.livedoomovies.com/02_3HD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Digital TV",CH3 SD
-https://www.livedoomovies.com/02_CH3SD_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Digital TV",CH3 Family
-https://www.livedoomovies.com/02_CH3FAMILY_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Digital TV",CH8 HD
-https://www.livedoomovies.com/02_8HD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://extraimage.net/images/2020/01/28/bda05ae4fbc69624f10c746f2d406627.png" group-title="Digital TV",Thai PBS
-https://www.livedoomovies.com/02_THAIPBS_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Digital TV",Mcot HD
-https://www.livedoomovies.com/02_MCOTHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Digital TV",NBT HD
-https://www.livedoomovies.com/02_NBTSD_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Digital TV",Thairath TV HD
-https://www.livedoomovies.com/02_THAIRATH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/592626244987932672/eXp0ILWw_400x400.jpg" group-title="Digital TV",Amarin TV
-https://www.livedoomovies.com/02_AMARINHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Digital TV",NEW TV
-https://www.livedoomovies.com/02_NEW_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Digital TV",Nation TV
-https://www.livedoomovies.com/02_NATION_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Digital TV",TNN24 TV
-https://www.livedoomovies.com/02_TNN24_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.coolism.net/theme/images/2020/logo_cool2020.png" group-title="Radio",CoolFahrenheit 93
-http://111.223.51.7:8100/;
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.becteroradio.com/img/nowplaying-hitz.jpg" group-title="Radio",Hitz 95
-http://18493.live.streamtheworld.com/HITZ_955AAC_128.aac?
-#EXTINF:-1 tvg-id="" tvg-logo="https://listen.becteroradio.com/2014/images/logo-star.png" group-title="Radio",Star
-https://wzorigin.becteroradio.com/Star/Star-Listen-Med/chunklist_w155711252.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://listen.becteroradio.com/2014/images/logo-eazy.png" group-title="Radio",Eazy FM
-https://wzedge1.becteroradio.com/Eazy/Eazy-Listen-Med/chunklist_w1810342030.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.thisiscat.com/themes/cat_radio/images/logo_cat.png" group-title="Radio",Cat Radio
-http://111.223.37.195/CatRadio/CatRadio-High/chunklist_w1142158279.m3u8
-
-############################ADULT#################################
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22868/kaloopy/logo_20200609_231841.png" group-title="DistroTV",Kaloopy (18+)
-https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-DistoTV/126.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Miami TV"  group-title="xxx",Miami TV
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Miami TV Jenny Live"  group-title="xxx",Miami TV Jenny Live
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
-
-#EXTINF:-1, tvg-id="Red Traffic anal" tvg-logo="Logo N/A" tvg-name="Red Traffic anal"  group-title="xxx",Red Traffic anal
-http://live.redtraffic.xyz/anal.m3u8
-
-#EXTINF:-1, tvg-id="Red Traffic big ass" tvg-logo="Logo N/A" tvg-name="Red Traffic big ass"  group-title="xxx",Red Traffic big ass
-http://live.redtraffic.xyz/bigass.m3u8?streamType=live
-
-#EXTINF:-1, tvg-id="Red Traffic big dick" tvg-logo="Logo N/A" tvg-name="Red Traffic big dick"  group-title="xxx",Red Traffic big dick
-http://live.redtraffic.xyz/bigdick.m3u8?streamType=live
-
-#EXTINF:-1, tvg-id="Red Traffic big tits" tvg-logo="Logo N/A" tvg-name="Red Traffic big tits"  group-title="xxx",Red Traffic big tits
-http://live.redtraffic.xyz/bigtits.m3u8?streamType=live
-
-#EXTINF:-1, tvg-id="Red Traffic teen" tvg-logo="Logo N/A" tvg-name="Red Traffic teen"  group-title="xxx",Red Traffic teen
-http://live.redtraffic.net/teen.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="RedTraffic 1"  group-title="xxx",RedTraffic 1
-http://live.redtraffic.xyz/blowjob.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="RedTraffic 2"  group-title="xxx",RedTraffic 2
-http://live.redtraffic.xyz/bigdick.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="RedTraffic 3"  group-title="xxx",RedTraffic 3
-http://live.redtraffic.xyz/bigass.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="RedTraffic 4"  group-title="xxx",RedTraffic 4
-http://live.redtraffic.xyz/hardcore.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="RedTraffic 5"  group-title="xxx",RedTraffic 5
-http://live.redtraffic.xyz/pornstar.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="RedTraffic 6"  group-title="xxx",RedTraffic 6
-http://live.redtraffic.xyz/lesbian.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="RedTraffic 7"  group-title="xxx",RedTraffic 7
-http://live.redtraffic.xyz/bigtits.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="RedTraffic 8"  group-title="xxx",RedTraffic 8
-http://live.redtraffic.xyz/fetish.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="RedTraffic 10"  group-title="xxx",RedTraffic 10
-http://live.redtraffic.xyz/russian.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="RedTraffic 11"  group-title="xxx",RedTraffic 11
-http://live.redtraffic.xyz/latina.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="RedTraffic 12"  group-title="xxx",RedTraffic 12
-http://live.redtraffic.xyz/interracial.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="RedTraffic 13"  group-title="xxx",RedTraffic 13
-http://live.redtraffic.xyz/threesome.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="RedTraffic 14"  group-title="xxx",RedTraffic 14
-http://live.redtraffic.xyz/cuckold.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="RedTraffic 15"  group-title="xxx",RedTraffic 15
-http://live.redtraffic.xyz/teen.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="RedTraffic 16"  group-title="xxx",RedTraffic 16
-http://live.redtraffic.xyz/pov.m3u8
-
-#EXTINF:-1, tvg-id="Adult" tvg-logo="Logo N/A" tvg-name="Adult"  group-title="xxx",Adult
-http://cdn.adultiptv.net/pov.m3u8?streamType=live
-
-#EXTINF:-1 group-title="xxx", PORN 
-https://edge-1192-ch-gv.filmon.com/live/6158.high.stream/playlist.m3u8
-
-https://1drv.ms/v/s!AihfKQhDjH0Pc_Y4Uj2LfcWdyX8 (hotmail/onedrive)
-
-#EXTINF:-1 tvg-name="************** USA TVS *********" tvg-id="" group-title="" tvg-logo="",************** USA TVS  *********
-http://nrpus.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Classic Movies
-http://nrpus.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Drive-in Movie
-http://nrpus.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Family Channel
-http://nrpus.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Flashback
-https://nrpus.bozztv.com/36bay2/gusa-TVSFlashback/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Frontier
-https://nrpus.bozztv.com/36bay2/gusa-tvsfrontier/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS High Tops
-https://nrpus.bozztv.com/36bay2/gusa-hitops/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Hollywood History
-http://nrpus.bozztv.com/36bay2/gusa-tvshollywoohistory/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Main Street
-https://nrpus.bozztv.com/36bay2/gusa-tvsmainst/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Nostalgia
-https://nrpus.bozztv.com/36bay2/gusa-nostalgia/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Nostalgia Movies
-http://nrpus.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Sports
-https://nrpus.bozztv.com/36bay2/gusa-tvssports/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Tavern
-https://nrpus.bozztv.com/36bay2/gusa-tavern/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Turbo
-https://nrpus.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS TV Network
-http://nrpus.bozztv.com/36bay2/gusa-tvstn/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Western Movies
-http://nrpus.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Women Sports
-https://nrpus.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
-
-
-
+#EXTINF:-1 tvg-logo="https://icdn05.hqporn.xxx/channel/356/818bd67cfdf7fbc98971a56a2b851711.jpeg",MYLF:40:41 SHOPLYFTER PCP
+#EXTGRP:MYLF
+https://cdn.cdnii.com/51fbe04aab1872cc7c7aed2f4755df54/2020/1/20201565-720p.mp4
+#EXTINF:-1 tvg-logo="https://icdn05.hqporn.xxx/channel/356/818bd67cfdf7fbc98971a56a2b851711.jpeg",MYLF:51:08 UNDERCOVER SLUT - SAVANNAH BOND
+#EXTGRP:MYLF
+https://www.momvids.com/get_file/1/59ade12d5d81cb92f4120d71ee6ec8e412909d6b5d/48000/48308/48308_720p.mp4/
+#EXTINF:-1 tvg-logo="https://icdn05.hqporn.xxx/channel/356/818bd67cfdf7fbc98971a56a2b851711.jpeg",MYLF:51:36 DIRTY MASSAGE - LATINA ROSE MONROE
+#EXTGRP:MYLF
+https://www.momvids.com/get_file/1/da350f27c0258b335a20a32ee892a0c47e9af3cbc5/48000/48291/48291_720p.mp4/
+#EXTINF:-1 tvg-logo="https://icdn05.hqporn.xxx/channel/356/818bd67cfdf7fbc98971a56a2b851711.jpeg",MYLF:51:36 FREEUSEMILF SEX IN THE GYM - KIRA PEREZ & NADIA WHITE
+#EXTGRP:MYLF
+https://www.momvids.com/get_file/1/c64662d472256d5c7f4a5fe3b5069c93b5ccb47fc8/48000/48288/48288_720p.mp4/
+#EXTINF:-1 tvg-logo="https://icdn05.hqporn.xxx/channel/356/818bd67cfdf7fbc98971a56a2b851711.jpeg",MYLF:42:05 STEPSON GIVES MOM A PCP - SARA JAY
+#EXTGRP:MYLF
+https://www.momvids.com/get_file/1/e9d8060eb5b1531b1fbcc552f43bdd93f75856d29c/48000/48286/48286_720p.mp4/
+#EXTINF:-1 tvg-logo="https://icdn05.hqporn.xxx/channel/356/818bd67cfdf7fbc98971a56a2b851711.jpeg",MYLF:42:05 STEPSON GIVES MOM A PCP - SARA JAY
+#EXTGRP:MYLF
+https://www.momvids.com/get_file/1/e9d8060eb5b1531b1fbcc552f43bdd93f75856d29c/48000/48286/48286_720p.mp4/
+#EXTINF:-1 tvg-logo="https://icdn05.hqporn.xxx/channel/356/818bd67cfdf7fbc98971a56a2b851711.jpeg",MYLF:61:28 HIJABMYLFS CANT BELIEVE I CREAMPIE MY HIJAB STEPMOM
+#EXTGRP:MYLF
+https://www.momvids.com/get_file/1/7fe27e5082484db03e172536080b34ca0507c5a02a/79000/79612/79612_720p.mp4
+#EXTINF:-1 tvg-logo="https://icdn05.hqporn.xxx/channel/356/818bd67cfdf7fbc98971a56a2b851711.jpeg",MYLF:38:17 OYE MAMI (SUB) - KLOE SAINT 
+#EXTGRP:MYLF
+https://v166120.cdn-d1.com/a98567b9b4cfb4e139bf6f3a7177b894a1ff68fc/i.yaeby.com/contents/videos/29000/29484/29484hq.mp4
+#EXTINF:-1 tvg-logo="https://icdn05.hqporn.xxx/channel/356/818bd67cfdf7fbc98971a56a2b851711.jpeg",MYLF:36:31 MILFBODY PCP - ANISSA KATE
+#EXTGRP:MYLF
+https://v7.cdnde.com/x7/upload_1915c54e61e126267344667b51011fef/21188/JOPORN_NET_21188_720p.mp4
+#EXTINF:-1 tvg-logo="https://icdn05.hqporn.xxx/channel/356/818bd67cfdf7fbc98971a56a2b851711.jpeg",MYLF:39:16 MOMDRIPS PCP - ANISSA KATE
+#EXTGRP:MYLF
+https://v3.cdnde.com/x3/upload_034c222bfbd01ab005411097ba307f1f/30591/JOPORN_NET_30591_720p.mp4
+#EXTINF:-1 tvg-logo="https://icdn05.hqporn.xxx/channel/356/818bd67cfdf7fbc98971a56a2b851711.jpeg",MYLF:35:12 BBC PARADISE PCP
+#EXTGRP:MYLF
+https://cdn.cdnii.com/51fbe04aab1872ccedada5c2285a55f5/2020/1/20201123-720p.mp4
+#EXTINF:-1 tvg-logo="https://cdni.pornpics.com/1280/1/357/40154040/40154040_020_f039.jpg",MYLF:27:16 MYLFX DANTE COLLE RYAN KEELEY PCP
+#EXTGRP:MYLF
+https://videos.pornozing.net/videos/6/4/e/5/9/64e59e0d4a765.mp4?md5=-8nISgYtkE6Voiov7_dTtg&expires=1712356206
+#EXTINF:-1 tvg-logo="https://images.pornozing.net/thumbs/6/3/1/1/f/6311f9b32b881.mp4/6311f9b32b881.mp4-4b.jpg",MYLF:41:19 ALEXA PAYNE DEEPTHROATING
+#EXTGRP:MYLF
+https://videos.pornozing.net/videos/6/3/1/1/f/6311f9b32b881.mp4?md5=EkVNn9_kRRzhiz7I153TEg&expires=1739449459
+#EXTINF:-1 tvg-logo="https://images.pornozing.net/thumbs/6/2/c/f/f/62cffebd942dd.mp4/62cffebd942dd.mp4-4b.jpg",MYLF:40:09 MYLF MASTERCLASS
+#EXTGRP:MYLF
+https://videos.pornozing.net/videos/6/2/c/f/f/62cffebd942dd.mp4?md5=SRwe1zqrovexgDSSAAy9FQ&expires=1739449826
+#EXTINF:-1 tvg-logo="https://images.pornozing.net/thumbs/6/1/c/9/a/61c9a09c5f57a.mp4/61c9a09c5f57a.mp4-4b.jpg",MYLF:34:21 MYLFOFTHEMONTH SAVANNAH BOND - HOW THE GRINCH STOLE MYLF-MAS
+#EXTGRP:MYLF
+https://videos.pornozing.net/videos/6/1/c/9/a/61c9a09c5f57a.mp4?md5=9V42sVkuO96-9fx4-ISdaQ&expires=1739449975
+#EXTINF:-1 tvg-logo="https://images.pornozing.net/thumbs/6/2/a/9/e/62a9ed4b77a67.mp4/62a9ed4b77a67.mp4-4b.jpg",MYLF:42:04 - NICOLE ANISTON COCK AFTER WORKOUT
+#EXTGRP:MYLF
+https://videos.pornozing.net/videos/6/2/a/9/e/62a9ed4b77a67.mp4?md5=I6gPRF8qd4A4sNug-mnYig&expires=1739450399
+#EXTINF:-1 tvg-logo="https://cdni.pornpics.com/1280/1/357/40154040/40154040_020_f039.jpg",MYLF:42:05 STEPSON GIVES MOM A PCP - SARA JAY
+#EXTGRP:MYLF
+https://www.momvids.com/get_file/1/e9d8060eb5b1531b1fbcc552f43bdd93f75856d29c/48000/48286/48286_720p.mp4/
+#EXTINF:-1 tvg-logo="https://icdn05.hqporn.xxx/channel/356/818bd67cfdf7fbc98971a56a2b851711.jpeg",MYLF:40:11 MILFTY TABOO SEX
+#EXTGRP:MYLF
+https://cdn.cdnii.com/51fbe04aab1872cc9a56f68b7771fd79/2020/1/20201389-720p.mp4
+#EXTINF:-1 tvg-logo="https://icdn05.hqporn.xxx/channel/356/818bd67cfdf7fbc98971a56a2b851711.jpeg",MYLF: 27:16 MYLFX DANTE COLLE RYAN KEELEY PCP
+#EXTGRP:MYLF
+https://videos.pornozing.net/videos/6/4/e/5/9/64e59e0d4a765.mp4?md5=-8nISgYtkE6Voiov7_dTtg&expires=1712356206
+#EXTINF:-1 tvg-logo="https://icdn05.hqporn.xxx/channel/356/818bd67cfdf7fbc98971a56a2b851711.jpeg",MYLF:42:05 STEPSON GIVES MOM A PCP - SARA JAY
+#EXTGRP:MYLF
+https://www.momvids.com/get_file/1/e9d8060eb5b1531b1fbcc552f43bdd93f75856d29c/48000/48286/48286_720p.mp4/
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FuBQ8bWWwAMf2HT.jpg",MYLF[PERVMOM]:KATIE MORGAN - ASK ME, FUCK ME
+#EXTGRP:MYLF
+https://mob.24xxx-x.com/common/loadvideo/458212.mp4?q=720&v=78072&sg=2&vurl=458212
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FuBQ8bWWwAMf2HT.jpg",MYLF:FREEUSEMILF STEPSON SEX
+#EXTGRP:MYLF
+https://mob.24xxx-x.com/common/loadvideo/562674.mp4?q=720&v=68678&sg=2&vurl=562674
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FuBQ8bWWwAMf2HT.jpg",MYLF:31:20 MILFBODY BLONDE BIG BOOTY & BOOBS FUCKED
+#EXTGRP:MYLF
+https://mediac.povaddict.com/media/videos/mp4/8794_720p.mp4
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FuBQ8bWWwAMf2HT.jpg",MYLF:FREEUSEMILF 
+#EXTGRP:MYLF
+https://cdn13.vids69.com/video/69/9/68829/68829.360p.mp4
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FuBQ8bWWwAMf2HT.jpg",MYLF:CHEATING MILF - ANIA KINSKI 
+#EXTGRP:MYLF
+https://video314.monstercockland.com/mcl/media/videos/mp4/244229.mp4
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FuBQ8bWWwAMf2HT.jpg",MYLF:37:15 STAYHOMEMILF CUM ON FACE
+#EXTGRP:MYLF
+https://mediac.povaddict.com/media/videos/mp4/6997_480p.mp4
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FuBQ8bWWwAMf2HT.jpg",MYLF:EBONY FUCKS REPAIRMAN
+#EXTGRP:MYLF
+https://www.pornwhite.com/get_file/1/932ee1dc42397a7e7e5619a314ff2b1a/2866000/2866247/2866247.mp4/
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FuBQ8bWWwAMf2HT.jpg",MYLF: FUCK YOGA TEACHER
+#EXTGRP:MYLF
+https://www.pornwhite.com/get_file/1/b92799b133c8f6943950e0fcb2b44130/2849000/2849375/2849375.mp4
+#EXTINF:-1 tvg-logo="https://cdni.pornwhite.com/contents/videos_screenshots/2915000/2915709/preview.jpg",MYLF:43:31 FUCK ME OR I DIVORCE YOUR DAD
+#EXTGRP:MYLF
+https://www.pornwhite.com/get_file/1/4bd4ce57389bf09dd72a9e77963489b9/2915000/2915709/2915709.mp4/
+#EXTINF:-1 tvg-logo="https://cdni.pornwhite.com/contents/videos_screenshots/3109000/3109581/preview.jpg",MYLF:STEPMOM WANTS MY CUM PCPMYLF:STEPMOM WANTS MY CUM PCP
+#EXTGRP:MYLF
+https://www.pornwhite.com/get_file/1/ea4f273f93afcf85974588a9f443f13d/3109000/3109581/3109581.mp4/
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FuBQ8bWWwAMf2HT.jpg",MYLF:34.09 PCP-4-HIJABMILF HD
+#EXTGRP:MYLF
+https://cdn8.vids69.com/video/61/4/60361/60361.mp4
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FuBQ8bWWwAMf2HT.jpg",MYLF:BAD NURSE
+#EXTGRP:MYLF
+https://cdn7.vids69.com/video/69/9/68899/68899.mp4
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FuBQ8bWWwAMf2HT.jpg",MYLF:EBONY MOMTEACHSEX 44:54.
+#EXTGRP:MYLF
+https://cdn3.vids69.com/video/60/5/59427/59427.mp4
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FuBQ8bWWwAMf2HT.jpg",MYLF:58:39 MOMTEACHSEX PCP 
+#EXTGRP:MYLF
+https://cdn6.vids69.com/video/66/1/65008/65008.mp4
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FuBQ8bWWwAMf2HT.jpg",MYLF:43:23 PERVNANA-CALMING-GRANDMA
+#EXTGRP:MYLF
+https://pornovibe.online/cdn/17944_360p.mp4
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FuBQ8bWWwAMf2HT.jpg",MYLF:45:59 NANA KNOWS BEST 
+#EXTGRP:MYLF
+https://pornovibe.online/cdn/18212_360p.mp4
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FuBQ8bWWwAMf2HT.jpg",MYLF:27:49 SEX IN SHOWER
+#EXTGRP:MYLF
+https://cdn12.vids69.com/video/59/10/58991/58991.mp4
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FuBQ8bWWwAMf2HT.jpg",MYLF:43:51 MOMSWAP CRYSTAL RUSH & KAYLYNN KEYS
+#EXTGRP:MYLF
+https://cdn3.vids69.com/video/66/6/65548/65548.mp4
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FuBQ8bWWwAMf2HT.jpg",MYLF:63.32 RACHAEL CAVALLI
+#EXTGRP:MYLF
+https://video.porn.se/videos/6/1/6/7/9/616790158f302.mp4
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FuBQ8bWWwAMf2HT.jpg",MYLF:63:18 CORY CHASE
+#EXTGRP:MYLF
+https://video.porn.se/videos/6/1/6/0/f/6160fd81b4988.mp4
+#EXTINF:-1 tvg-logo="https://clubhdx.com/contents/videos_screenshots/9000/9912/preview.mp4.jpg",MYLF:33:42 NINA ELLE & JUAN
+#EXTGRP:MYLF
+https://clubhdx.com/get_file/1/bbe67a9a1de7f98099ac95f27077d74e/9000/9912/9912_720p.mp4/?download=true&download_filename=rabotnik-zakusochnoy-ebetsya-s-grudastoy-blondinkoy-na-kuhe-i-za-kassoy_720p.mp4
+#EXTINF:-1 tvg-logo="https://clubhdx.com/contents/videos_screenshots/11000/11605/preview.mp4.jpg",MYLF:30:46 TABOO MOM IN RED SWIMSUIT
+#EXTGRP:MYLF
+https://clubhdx.com/get_file/1/6b38c638da1a77fbbc5ff3ff8a4214e1/11000/11605/11605_720p.mp4/?download=true&download_filename=ottrahal-sisyastuyu-mamashu-v-krasnom-kupalnike-nesmotrya-na-tabu_720p.mp4
+#EXTINF:-1 tvg-logo="https://clubhdx.com/contents/videos_screenshots/26000/26423/preview.mp4.jpg",MYLF:36:26 CHRISSY LYNN
+#EXTGRP:MYLF
+https://clubhdx.com/get_file/1/49389d99cecdb17854ba614d2ced6725/26000/26423/26423_720p.mp4/?download=true&download_filename=domohozyayka-majet-bolshie-silikonovye-siski-kremom-i-soset-bolshoy-pisyun_720p.mp4
