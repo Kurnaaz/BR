@@ -3,6 +3,9 @@
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://i.imgur.com/Ll6GlqY.png" tvg-country="INT", V2BEAT
 https://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://icdn05.hqporn.xxx/channel/356/818bd67cfdf7fbc98971a56a2b851711.jpeg",MYLF:38:21 FUCK A POOL BOY - SHEENA RYDER & RACHAEL CAVALLI
+#EXTGRP:MYLF
+https://www.multi.xxx/get_file/30/6790516b13ba3d71e51681c808c65fbe/206000/206561/206561.mp4/
 #EXTINF:-1 tvg-logo="https://icdn05.hqporn.xxx/channel/356/818bd67cfdf7fbc98971a56a2b851711.jpeg",MYLF:40:41 SHOPLYFTER PCP
 #EXTGRP:MYLF
 https://cdn.cdnii.com/51fbe04aab1872cc7c7aed2f4755df54/2020/1/20201565-720p.mp4
@@ -297,3 +300,24 @@ https://www.multi.xxx/get_file/25/93863a7b887f6e8b84dad8e7d4e8b54c/310000/310484
 #EXTINF:-1,FAKEDRIVINGSCHOOL:42:44 STELLA COX
 #EXTGRP:FAKEDRIVINGSCHOOL
 https://www.multi.xxx/get_file/8/691228ae8bb26609bc0c081718a99d50/1000/1378/1378.mp4/
+#EXTINF:-1,CUM4K:43:33 DANA WOLF
+#EXTGRP:CUM4K
+https://www.multi.xxx/get_file/26/4b6ea849950e0dffd7573081d6ecb736/108000/108519/108519.mp4/
+#EXTINF:-1,CUM4K:51:37 HIME MARIA & MELISSA STRATTON
+#EXTGRP:CUM4K
+https://www.multi.xxx/get_file/19/02fdfec40991c56ee7cb4e6750ef1764/292000/292469/292469.mp4/
+#EXTINF:-1,CUM4K:48:31 CECILIA TAYLOR
+#EXTGRP:CUM4K
+https://www.multi.xxx/get_file/43/cc7c84770d93a96ea0e07b0d1a4cd3e8/297000/297433/297433.mp4/
+#EXTINF:-1,CUM4K:42:31 SOPHIA LUX
+#EXTGRP:CUM4K
+https://www.multi.xxx/get_file/28/d6b5799e81d3a4dbd4d8a63ce32c2617/219000/219174/219174.mp4/
+#EXTINF:-1,CUM4K:40:31 VIRGIN STEPBRO - ATHENA FARIS 
+#EXTGRP:CUM4K
+https://www.multi.xxx/get_file/33/360b6381cdc419c5191cc8f86dd1ecb2/245000/245864/245864.mp4/
+#EXTINF:-1,CUM4K:36:31 FEMALE BOSS PCP BY INTERN - LENA PAUL
+#EXTGRP:CUM4K
+https://www.multi.xxx/get_file/31/7b1ec43abe347e19868b6735b28f1cbe/218000/218521/218521.mp4/
+#EXTINF:-1,CUM4K:35:31 STEPBRO FUCKED - ABELLA DANGER & ELIZA IBARRA 
+#EXTGRP:CUM4K
+https://www.multi.xxx/get_file/34/9df30edd83dfac844bb6a828d786c2e7/245000/245851/245851.mp4/
